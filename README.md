@@ -20,7 +20,7 @@ O projeto cobre conceitos fundamentais de SQL, como criação de tabelas, inser�
 
 1. **Clone o repositório**
    ```sh
-   git clone https://github.com/seu-usuario/SQL_Livraria_DB.git
+   git clone https://github.com/MariaEduardaTBuonafina/SQL_Livraria_DB.git
    ```
 
 2. **Acesse o diretório do projeto**
